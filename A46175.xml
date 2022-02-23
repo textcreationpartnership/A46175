@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial survey of such as are not, and such as are, fitly qualified for candidates for the approaching Parliament humbly offered to all that truly love their King and country / by a hearty well-wisher to the prosperity of both.</title>
+            <author>Hearty well-wisher to the prosperity of both.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46175</idno>
+            <idno type="STC">Wing I89</idno>
+            <idno type="STC">ESTC R326</idno>
+            <idno type="EEBO-CITATION">13065031</idno>
+            <idno type="OCLC">ocm 13065031</idno>
+            <idno type="VID">97034</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97034)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial survey of such as are not, and such as are, fitly qualified for candidates for the approaching Parliament humbly offered to all that truly love their King and country / by a hearty well-wisher to the prosperity of both.</title>
+                  <author>Hearty well-wisher to the prosperity of both.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97034:1" rendition="simple:additions"/>
+            <head>AN Impartial Survey Of ſuch as are not, and ſuch as are, fitly Qualified FOR <hi>CANDIDATES</hi> For the approaching PARLIAMENT. Humbly offered to all that truly Love their King and Country.</head>
+            <p>
+               <hi>By a hearty well-wiſher to the Proſperity of Both.</hi>
+            </p>
+            <p n="1">1. <seg rend="decorInit">T</seg>HE Presbyterians are ſuch, for there is not one in forty of them (in the Rank of Politicians) for they have their ſeveral Claſſes, as well as the Prieſts have Orders, but will with all the force of their inexhauſtible ſtock of Seditious Rheto<g ref="char:EOLhyphen"/>rick, juſtifie the late Rebellion, and ſuch with<g ref="char:EOLhyphen"/>out all queſtion will be ready to foment a new One; beſides their inſufferable Pride in owning no Superiors (but themſelves) in Spirituals.</p>
+            <p n="2">2. The Independants are ſuch, for beſides their horrid and deteſtable adherence to the High Court of Juſtice (as they Blaſphemouſly call'd that Infernal Brood) their ſtrict Conjunction with the moſt Damnable Iniquities of the twelve years Interval, they have ſuch Democratical Principles of Government, as is inconſiſtent with human Society.</p>
+            <p n="3">3. The Anabaptiſts are ſuch, and not to be truſted in any Affair that concerns the Government, for they and the Independants are Brethren in Iniquity, and join'd Hand and Head (in all the wicked ſtratagems) throughout the Uſurpation, to involve the Nation in a perpetual ſla<g ref="char:EOLhyphen"/>very, and that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> methods ſo unconſcionable and bloody, as the moſt Savage Barbarian would abhor.</p>
+            <p n="4">4. The Rumpe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are ſuch, they having run Paralel with (if not ex<g ref="char:EOLhyphen"/>ceeded) all the dete<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ble Villanies above cited.</p>
+            <p n="5">5. All thoſe are ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (if any ſuch there be) that did actually receive Penſions with deſign t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nflame the Nation.</p>
+            <p n="6">6. The <hi>Worceſter-Fig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> men</hi> are ſuch, for if they had not in their hearts approved the horrid Murder of the Father, they would not have attempted to imbrue their h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds in the blood of the Son, which muſt be the natural reſult of that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſition: For then they had laid aſide
+<pb n="2" facs="tcp:97034:2"/>their Viſor and walk'd bare-Faced, and made uſe of none of thoſe de<g ref="char:EOLhyphen"/>luſory pretences of bringing him home to his Parliament, and making him a glorious King.</p>
+            <p n="7">7. The Papiſts, Quakers, Levellers, Browniſts, and Fifth-Monarchy-men are all alike obnoxious, for though they differ in themſelves, yet are they Confederated together in an inſeparable Union againſt the Common Enemy, as they call the Church of <hi>England,</hi> and do with the utmoſt of their force and skill level their inexorable Malice againſt the very Root of it: and that their Malice is as implacable againſt the State I refer the Reader to their former practices (which inſtruct far better then Precepts) which Modern Hiſtory is pregnant with. They have de<g ref="char:EOLhyphen"/>ceiv'd us once, for which God forgive them, but if ever they deceive us more, then I ſay God forgive us; and if ſome men there be (as I fear there are too many) of diſtinct Principles from the reſt (guided by their own Avaritious and Ungodly Appetites) that would build up the State on the Ruins of the Church, be aſſured that God will never bleſs the work of ſuch hands, and ſuch a Structure cannot ſtand. King <hi>James</hi> his Apho<g ref="char:EOLhyphen"/>riſm, <hi>no Biſhop, no King,</hi> we have (by a moſt lamentable and ſad ex<g ref="char:EOLhyphen"/>perience) found true. It is true we cannot Divine of the future beha<g ref="char:EOLhyphen"/>viour of men, but when they have, like <hi>Cain,</hi> a Mark ſet upon them, we ought to fly them, as we would Infection, and let it be remembred that ſuch as give their Votes for any under theſe Circumſtances, are ſhort<g ref="char:EOLhyphen"/>ſighted, wilfully blind, or of the ſame Leven, and do as much as in them lies, to repeat the ſame Miſchiefs over again.</p>
+            <p>Now to chuſe ſuch as are without exception, ſuch I ſay are men of good Eſtates, true Sons of the Church, and of untainted Loyalty to their Prince, and ſuch men can have no deſigns a-part from the good of their Country. Some of thoſe brave Souls are ſtill living, that exhauſted their Eſtates, and emptied their Veins in the Defence of Church and State, and is it not more Rational to think, nay is it not Irrational to think o<g ref="char:EOLhyphen"/>therwiſe, that theſe men or their Sons, will rather do the like again, than ſuch or the Sons of ſuch, as once ſteered a quite contrary Courſe, till they made Shipwrack of three Kingdoms? It is probable they may (nay, it is certain they will if permitted) again make long harangues for the Liberty and Property of the Subject, (which they invaded and deſtroyed) Redreſs of Grievances, which they multiplyed a 1000 times over, Reformation of Church Government, which they turn'd into a Chaos of Confuſion; and though they have laid aſide (as a State-device out of date) their Religious Mask, (with which they cover'd ſuch multi<g ref="char:EOLhyphen"/>tudes of horrid Impieties, as would make a Pagan bluſh to behold) yet they have found out freſh ſlights to debauch the people from their Al<g ref="char:EOLhyphen"/>legiance. Theſe are, I ſay, our hot-headed Schiſmatical Separati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, whoſe Maſter-piece now is to perſuade the honeſt and plain-hearted Church of <hi>England</hi> man, that their Spiritual nor Secular concerns cannot be ſafe, ex<g ref="char:EOLhyphen"/>cept they chuſe ſuch men as may be as obnoxious to our preſent Sove<g ref="char:EOLhyphen"/>raign, as ſome others were barbarous to his Father: and the more ef<g ref="char:EOLhyphen"/>fectually to wheadle them into this ſnare, they tell the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that it was not they (good men!) that Murder'd him, but the Papiſts; and if they can but throughly delude the people with this Impoſture, their Game will play it ſelf without trouble of ſhifting Scenes, for the Good Old Cauſe, which is ſtill ſo nauſeous, will then have a ſavour Relliſh. True it is, the Prieſts and Jeſuites had their part (and acted into the life) in fomenting thoſe unhappy and inhuman Diſcords; as <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dreas ab Habernfields</hi> Diſco<g ref="char:EOLhyphen"/>very to Sir <hi>William Boſwell,</hi> and from him tranſmitted to the Arch-Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury</hi> (that Mirror of Learning and Pious Conſtancy) whom they intended to have Maſſacre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for being ſo firm a Proteſtant,
+<pb n="3" facs="tcp:97034:2"/>and the Parliament actually murder'd under the falſe pretence of being a Papiſt, do plainly demonſtrate. So that we ſee, that as our dear Lord and Saviour was Crucified between to Thieves, ſo was the Lords Annointed our dear Sovereign between the Jeſuits and Phanaticks: It matters not what Principles the High-Court of Juſtice were of, whether Presbyterian, Independant (or which is moſt likely) Infidel, or a mixt crew made up of all ſorts; but this uſe may be made on't, there were and ſtill are many thouſands in this Kingdom (and few Towns ſo inconſiderable as not to have ſome of them) that intitled themſelves the Aſſerters of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, and were (in their ſeveral Capacities) ſtrenous Abettors of their moſt wicked and execrable Practices, and as they did then, ſo they do ſtill call themſelves Proteſtants. And ſo far are they from expreſſing any true ſigns of Repentance, that I fear they are more ready to juſtifie the Fact, and that for this Reaſon: At <hi>Crouches</hi> Meeting-Houſe in <hi>Moor-fields,</hi> and ſeveral others about the City, where on <hi>Sundays</hi> are eighteen hundred or two thouſand Hearers, they keep the Fifth of <hi>November</hi> mighty ſtrict, which proves them no Papiſts, but on the Thirtieth of <hi>January</hi> there is not a ſoul in them; and ſo far are ſome of them from keeping it as a day of Humiliation, that they make it a day of Feaſting: theſe are bad ſigns, my Maſters.</p>
+            <p>Some of the miſ-led Flock of Presbyterians make loud boaſts of the Loyalty of their Omnipotent Doctors <hi>Love</hi> and <hi>Baxter,</hi> and how the firſt dyed a Martyr for the ſake and cauſe of the King; but to rectifie that miſtake, ſee his Narrative, where he prays that <hi>God would redeem the King from the Iniquity of his Fathers Houſe.</hi> Again, <hi>It is earneſtly wiſhed that our Kings heart may be tender and be truly humble before the Lord for the ſins of his Fathers Houſe.</hi> And ſee his ſpeech upon the Scaffold where he ſays, <hi>I did (it is true) oppoſe in my Place and Calling, the Forces of the late King, and were he alive again, and ſhould I live longer, the Cauſe being as then it was, I ſhould oppoſe him longer.</hi> And in his Petition, <q>he doth proteſt in the preſence of God, the ſearcher of all hearts, that he knoweth no Plot or Deſign againſt the preſent Govern<g ref="char:EOLhyphen"/>ment (the <hi>Rump</hi>) nor is he privy in the leaſt, to any preparations for, or intendments towards any Inteſtine Inſurrections, or Foreign Invaſions, or to any Correſpondence now held with any in or of the <hi>Scottiſh</hi> Na<g ref="char:EOLhyphen"/>tion, or any other whatſoever. And again, He promiſeth never to Plot, Contrive, or deſign any thing to the hurt of this preſent Govern<g ref="char:EOLhyphen"/>ment, (<hi>Rump</hi>) and that he is ſorrowful for his high Crimes and Of<g ref="char:EOLhyphen"/>fences againſt the Parliament, in his late and great miſcarriages: and de<g ref="char:EOLhyphen"/>ſires them to paſs by theſe ſundry and great Offences.</q> And concludes thus, <q>That I ſhall devote the remainder of my days to the Glory of God, and good of his people, the peace and ſafety of this Com<g ref="char:EOLhyphen"/>mon-Wealth, againſt all the Malignant Enemies and Oppoſers thereof.</q> By this we may ſee his Loyal Conceptions and Indeavours for the Kings Reſtauration; and that St. <hi>Baxter</hi> comes not a jot ſhort of him, ſee his Preface to his <hi>Holy Common-Wealth,</hi> where he ſays, <hi>That if the War was to begin again, he would take the Parliaments part; If I ſhould do otherwiſe, I ſhould be guilty of Treaſon or Diſloyalty a<g ref="char:EOLhyphen"/>gainſt the Soveraign Power of the Land, for I knew not how to reſiſt or diſobey them, without violation of the Command of God,</hi> Rom. xiii. <hi>Let every ſoul be ſubject to the Higher Power, and without incurring the dan<g ref="char:EOLhyphen"/>ger of the Condemnation there threatned to Reſiſters.</hi> Now if theſe grave, prudent, modeſt, ſober, ſincere, and unexampled Patterns of Loyalty go thus far, we may ceaſe to wonder, when we hear others of that Fraternity with greater boldneſs, and in plain terms juſtifie the
+<pb n="4" facs="tcp:97034:3"/>late Rebellion: and we all know the event of that was, of a Glorious King (as they canted it to gull the people) to make a Royal Martyr. Nor is it any wonder, that their Allegiance ſhould have ſo feeble a tie upon them, the word of God being obligatory with them no further, than it conduceth to their deſign. For tell them, God Almighty by the mouth of his Holy Prophet <hi>Samuel</hi> ſays, <hi>Rebellion is like the ſin of Witch<g ref="char:EOLhyphen"/>craft,</hi> and the reiterated admonition of the Apoſtles, <hi>Fear God, honour the King; Where the word of a King is, there is power, and who ſhall ſay what doeſt thou? And happy is the man that feareth the Lord and the King,</hi> Prov. xxiv. 21. <hi>A divine ſentence is in the lips of the King, his mouth tranſgreſſeth not in Judgment,</hi> Prov. xiv. 10. This their Sophi<g ref="char:EOLhyphen"/>ſters tell us, is not to be underſtood in the extenſive Latitude of the Word, but muſt admit of Conſtruction, though we are Commanded by the Word of God in direct terms, not to add to or diminiſh ought from the Scripture. And not unlike this was their Expoſition on that Clauſe in the Covenant (which they ſo ſolemnly ſwore to adhere to) to defend the Kings Perſon, which they expounded to be the King<g ref="char:EOLhyphen"/>dom. This is true Jeſuit all over, yet that the wicked Rump Parli<g ref="char:EOLhyphen"/>ament, nor their Complices were Papiſts, nor favourers of Papiſts, is moſt certain; for beſides their inceſſant Exclamation againſt them, there were no ſort of people, throughout the Uſurpation, that lay under thoſe heavy preſſures that they did, as frequent Impriſon<g ref="char:EOLhyphen"/>ments, Sequeſtrations, Fines, and Decimations: and this will be ſayed to their Eternal Honour (and to the unparalel'd reproach of thoſe that call'd themſelves Proteſtants, and paſs for ſuch now, had wickedly Conſpired to ſhed their Sovereigns blood) after that fatal defeat at <hi>Worceſter,</hi> the <hi>Giffords</hi> and <hi>Pendrels</hi> Papiſts, and <hi>Hud<g ref="char:EOLhyphen"/>dleſon</hi> a Popiſh Prieſt, were the chief Inſtruments (under God) of his Miraculous Deliverance. It is not meant by this to extenuate the miſ<g ref="char:EOLhyphen"/>chievous practices of the Papiſts, for their <hi>Putney</hi>-Conſult and the product of that (a Petition to <hi>Cromwel</hi> to abjure the Royal Family for a Tole<g ref="char:EOLhyphen"/>ration) will proclaim their monſtrous ingratitude to all Poſterity; but to ſhew that ſome of that King-Killing, and deteſtable Race of mankind were better principl'd, than ſuch reputed Proteſtants. But I will ceaſe to enumerate the Slights, Cheats, and Forgeries (which are well enough known, if but half ſo well conſidered) of an implacable Faction, who would if poſſible once more turn all into Confuſion, as their wiſhing (nay almoſt Praying in Publick) for the ſucceſs of the Rebels in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> do Witneſs. But this is loſt Labour I well know, for their Faces are as impenetrable as the Walls of <hi>Oſtend,</hi> and they will no more recoil at the ſight of ten thouſand Apparitions of their horrid Impieties, than the Mountain would remove at <hi>Mahomets</hi> call; but to the laſt, like the Jeſuits at <hi>Tiburn,</hi> aver themſelves as innocent as the Child unborn. Theſe things ſhould not now have been remembred, it being a main Principle in the Church of <hi>England</hi> to forgive our Enemies, and for<g ref="char:EOLhyphen"/>get Injuries, and Conſonant to the Great and Pious Example of our moſt Gratious King, who has Converted the Act of Indempnity, into one of Oblivion; did not they themſelves with their Scurrilous and Sediti<g ref="char:EOLhyphen"/>ous Libels hourly awake us out of our reſolv'd ſilence. I will conclude with theſe Divine Admonitions. <hi>Theſe filthy dreamers defile the fleſh, deſpiſe dominion, and ſpeak evil of dignities,</hi> Jude 8. <hi>Repent ye for the Kingdom of Heaven is at hand,</hi> Matth. iii. 2. <hi>Behold the Lord com<g ref="char:EOLhyphen"/>eth with ten thouſand of his Saints to execute judgment upon them all,</hi> Jude 14, 15. <hi>My ſon, fear thou the Lord and the King, and meddle not with them that are given to change,</hi> Prov. xxiv. 21.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
